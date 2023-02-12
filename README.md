@@ -3,7 +3,7 @@
 #### Front End:
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css)](https://skillicons.dev)
 #### Back End:
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,oracle,python,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,python,flask)](https://skillicons.dev)
 #### Other:
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 
