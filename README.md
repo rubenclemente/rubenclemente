@@ -3,9 +3,9 @@
 #### Front End:
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css)](https://skillicons.dev)
 #### Back End:
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,python,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,flask)](https://skillicons.dev)
 #### Other:
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,gitlab,idea)](https://skillicons.dev)
 
 <!--
 **rubenclemente/rubenclemente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
