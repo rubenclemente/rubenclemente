@@ -1,11 +1,12 @@
 ### Hi there, I am Rubén 👋
 
 #### Front End:
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,bootstrap,react,html,css)](https://skillicons.dev)
 #### Back End:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,spring,hibernate,mysql,mongodb,python,fastapi,flask,nodejs)](https://skillicons.dev)
 #### Other:
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,git,github,gitlab,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,bash,docker,kubernetes,git,github,gitlab,idea,pycharm,sublime,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,selenium,elasticsearch)](https://skillicons.dev)
 
 <!--
 **rubenclemente/rubenclemente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
