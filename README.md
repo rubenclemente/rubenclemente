@@ -6,6 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,maven,spring,hibernate,mysql,mongodb,python,fastapi,flask,nodejs)](https://skillicons.dev)
 #### Other:
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,bash,docker,kubernetes,git,github,gitlab,idea,pycharm,sublime,vscode)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=aws,selenium,elasticsearch)](https://skillicons.dev)
 
 <!--
